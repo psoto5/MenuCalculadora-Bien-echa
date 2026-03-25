@@ -19,13 +19,13 @@ Proceso Menu
 				Escribir "Ingrese un numero";
 				Leer Num1, Num2;
 				suma <- Num1+ Num2;
-				Escribir "Resultado", suma;
+				Escribir "Resultado:  ", suma;
 				
 			2:
 				Escribir "Ingrese un numero: ";
 				Leer Num3, Num4;
 				resta <- Num3 - Num4;
-				Escribir "Resultado resta: ", resta;
+				Escribir "Resultado:  ", resta;
 			3:
 				Escribir "--Saliendo del programa--";
 			De Otro Modo:
